@@ -1,4 +1,4 @@
-# Hi there 👋 My name is Muhammad Omair  
+# Hi there 👋 My name is Mohammad Omer Aamir
 A passionate Backend Developer & Data Engineering Enthusiast from Pakistan 🚀
 
 ---
