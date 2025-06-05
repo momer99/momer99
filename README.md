@@ -9,7 +9,6 @@ A passionate Backend Developer & Data Engineering Enthusiast from Pakistan 🚀
 - 🌱 I'm learning **Advanced System Design**, **Data Pipelines**, and **Cloud Deployments**
 - 👯 I'm looking to collaborate on **Backend APIs**, **ETL pipelines**, and **ML integrations**
 - 💬 Ask me about **Node.js**, **PostgreSQL**, **Docker**, **Python**, and **Data Engineering Tools**
-- 🤝 Connect with me: `momer99`
 
 ---
 
