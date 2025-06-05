@@ -33,9 +33,9 @@ A passionate Backend Developer & Data Engineering Enthusiast from Pakistan 🚀
 ---
 
 ## 📈 GitHub Stats & Streaks
-![Momer99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momer99&show_icons=true&theme=default)
-![Momer99's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=momer99&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momer99&layout=compact&theme=default)
+![Momer99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momer99&show_icons=true&theme=radical)
+![Momer99's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=momer99&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momer99&layout=compact&theme=radical)
 
 ---
 
