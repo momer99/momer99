@@ -21,7 +21,7 @@ A passionate Backend Developer & Data Engineering Enthusiast from Pakistan 🚀
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=momer99&theme=radical&column=7)]
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=momer99&theme=monokai&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
