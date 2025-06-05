@@ -14,7 +14,7 @@ A passionate Backend Developer & Data Engineering Enthusiast from Pakistan 🚀
 
 ## 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,github,cpp,python,docker,numpy,nodejs,express,react,fastapi,jenkins" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,github,cpp,python,docker,nodejs,express,react,fastapi,jenkins" />
 </p>
 
 
