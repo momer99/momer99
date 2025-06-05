@@ -13,7 +13,7 @@ A passionate Backend Developer & Data Engineering Enthusiast from Pakistan 🚀
 ---
 
 ## 🛠️ Languages and Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=radical)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -28,14 +28,13 @@ A passionate Backend Developer & Data Engineering Enthusiast from Pakistan 🚀
 ---
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=momer99&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=momer99&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📈 GitHub Stats & Streaks
 ![Momer99's GitHub Stats](https://github-readme-stats.vercel.app/api?username=momer99&show_icons=true&theme=radical)
 ![Momer99's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=momer99&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momer99&layout=compact&theme=radical)
 
 ---
 
