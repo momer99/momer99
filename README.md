@@ -1,5 +1,6 @@
 # Hi there 👋 My name is Mohammad Omer Aamir
 A passionate Backend Developer & Data Engineering Enthusiast from Pakistan 🚀
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=momer99.momer99)
 
 ---
 
